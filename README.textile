@@ -1,0 +1,10 @@
+This scraper provides the UK Singles Charts Top 100. Data that is being provided is
+
+* Current Position
+* Last Weeks Position
+* Number of weeks at the current position
+* song title
+* artist
+* link to the cover image
+* record label
+
